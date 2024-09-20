@@ -1,7 +1,7 @@
 # VirtualBT
 A Windows-host Bluetooth server designed to simulate input devices such as keyboards, mice, and gamepads.
 
-The goal of this is to build upon Windows Bluetooth LE and the Windows GattServicesLibrary to create a use-specific app that can act as a virtual Bluetooth device which can connect to any device (phone, game console, etc.) that supports it. Eventually, I would like to implement mouse and gamepad support. 
+The goal of this is to build upon Windows Bluetooth LE (along with the Windows GattServicesLibrary and SortedObservableCollection) to create a use-specific app that can act as a virtual Bluetooth device which can connect to any device (phone, game console, etc.) that supports it. Eventually, I would like to implement mouse and gamepad support. 
 
 # Currently supported features:
 
