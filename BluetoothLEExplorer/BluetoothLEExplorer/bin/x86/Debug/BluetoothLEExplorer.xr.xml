@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="SelectedDataSectionFilter" />
+    <RootPropertyPathName Name="SectionDataFormat" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="ScanningMode" />
+    <RootPropertyPathName Name="WriteType" />
+    <RootPropertyPathName Name="Characteristic" />
+    <RootPropertyPathName Name="DisplayType" />
+    <RootPropertyPathName Name="Glyph" />
+    <RootPropertyPathName Name="GridFilter" />
+    <RootPropertyPathName Name="AboutPartViewModel" />
+    <RootPropertyPathName Name="Version" />
+    <RootPropertyPathName Name="Publisher" />
+    <RootPropertyPathName Name="DisplayName" />
+    <RootPropertyPathName Name="Logo" />
+    <RootPropertyPathName Name="SettingsPartViewModel" />
+    <RootPropertyPathName Name="CloseConnectionsButton" />
+    <RootPropertyPathName Name="UseCachingButton" />
+    <RootPropertyPathName Name="UseLightThemeButton" />
+    <RootPropertyPathName Name="UseShellBackButton" />
+    <RootPropertyPathName Name="ActualWidth" />
+    <RootPropertyPathName Name="ActualHeight" />
+    <RootPropertyPathName Name="IsOn" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Template10.Common.BootStrapper">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="Source" />
+      <RootProperty Name="ThemeDictionaries" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.ViewModels.ServicePageViewModel" />
+    <RootType FullName="Template10.Converters.ValueWhenConverter">
+      <RootProperty Name="When" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Otherwise" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.BackgroundColorConverter" />
+    <RootType FullName="System.Boolean" />
+    <RootType FullName="Windows.UI.Xaml.Visibility" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RelativePanel">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="DataContext" />
+      <RootMethod Name="GetAlignLeftWithPanel" />
+      <RootMethod Name="SetAlignLeftWithPanel" />
+      <RootMethod Name="GetAlignRightWithPanel" />
+      <RootMethod Name="SetAlignRightWithPanel" />
+      <RootMethod Name="GetAlignTopWithPanel" />
+      <RootMethod Name="SetAlignTopWithPanel" />
+      <RootMethod Name="GetBelow" />
+      <RootMethod Name="SetBelow" />
+      <RootMethod Name="GetAlignBottomWithPanel" />
+      <RootMethod Name="SetAlignBottomWithPanel" />
+      <RootMethod Name="GetAlignBottomWith" />
+      <RootMethod Name="SetAlignBottomWith" />
+      <RootMethod Name="GetRightOf" />
+      <RootMethod Name="SetRightOf" />
+      <RootMethod Name="GetAlignVerticalCenterWith" />
+      <RootMethod Name="SetAlignVerticalCenterWith" />
+      <RootMethod Name="GetAlignRightWith" />
+      <RootMethod Name="SetAlignRightWith" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="StateTriggers" />
+      <RootProperty Name="Setters" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.AdaptiveTrigger">
+      <RootProperty Name="MinWindowWidth" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Template10.Controls.PageHeader">
+      <RootProperty Name="Frame" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VisualStateNarrowMinWidth" />
+      <RootProperty Name="VisualStateNormalMinWidth" />
+      <RootProperty Name="SecondaryCommands" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Padding" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Background" />
+      <RootEvent Name="Holding" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Children" />
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalScrollBarVisibility" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="Margin" />
+      <RootEvent Name="ItemClick" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="FallbackValue" />
+      <RootProperty Name="UpdateSourceTrigger" />
+      <RootProperty Name="Path" />
+      <RootProperty Name="ConverterParameter" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="IsTextSelectionEnabled" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="TextDecorations" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontWeight" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToggleSwitch">
+      <RootProperty Name="Header" />
+      <RootProperty Name="OffContent" />
+      <RootProperty Name="OnContent" />
+      <RootProperty Name="IsOn" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="IsFocusEngagementEnabled" />
+      <RootProperty Name="AllowFocusOnInteraction" />
+      <RootProperty Name="AllowFocusWhenDisabled" />
+      <RootProperty Name="IsTabStop" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootProperty Name="RenderTransform" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.ServicePage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Color" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsChecked" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Text" />
+      <RootProperty Name="IsReadOnly" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="BeforeTextChanging" />
+      <RootEvent Name="TextChanging" />
+      <RootEvent Name="KeyUp" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.CustomControls.GattLocalCharacteristicControl">
+      <RootProperty Name="Characteristic" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsReadOnly" />
+    </RootType>
+    <RootType FullName="System.Double" />
+    <RootType FullName="Windows.UI.Xaml.Media.SolidColorBrush">
+      <RootProperty Name="Color" />
+    </RootType>
+    <RootType FullName="Template10.Controls.HamburgerMenu">
+      <RootProperty Name="PaneBorderThickness" />
+      <RootProperty Name="SecondarySeparator" />
+      <RootProperty Name="NavButtonBackground" />
+      <RootProperty Name="NavButtonForeground" />
+      <RootProperty Name="NavAreaBackground" />
+      <RootProperty Name="HamburgerForeground" />
+      <RootProperty Name="HamburgerBackground" />
+      <RootProperty Name="VisualStateNarrowMinWidth" />
+      <RootProperty Name="VisualStateNormalMinWidth" />
+      <RootProperty Name="VisualStateWideMinWidth" />
+      <RootProperty Name="AccentColor" />
+      <RootProperty Name="PrimaryButtons" />
+      <RootProperty Name="SecondaryButtons" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Foreground" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Target" />
+    </RootType>
+    <RootType FullName="Template10.Controls.Resizer">
+      <RootProperty Name="GrabberBrush" />
+      <RootProperty Name="GrabberVisibility" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AdvertisementBeaconDetailsPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.AdvertisementBeaconDetailsPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AdvertisementPageViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsControl">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Padding" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.AdvertisementPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AdvertisementMonitorPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.ScanningModeToBooleanConverter" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.DataFormatTypeToBooleanConverter" />
+    <RootType FullName="System.Int32" />
+    <RootType FullName="System.String" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RadioButton">
+      <RootProperty Name="GroupName" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsChecked" />
+      <RootProperty Name="Width" />
+      <RootEvent Name="Checked" />
+      <RootEvent Name="Unchecked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="ConverterParameter" />
+      <RootProperty Name="UpdateSourceTrigger" />
+      <RootProperty Name="ElementName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="DisplayMemberPath" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="SelectedValue" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Label" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.AdvertisementMonitorPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AlertNotificationServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.AlertNotificationServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.BloodPressureServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.BloodPressureServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.CurrentTimeServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.CurrentTimeServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.HeartRateServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.HeartRateServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.MicrosoftServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.MicrosoftServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.BatteryServicePageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.BatteryServicePage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AdvertisementBeaconPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.ByteArrayToStringConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.GridView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemsPanel" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.ViewModels.AdvertisementBeaconPageNewBeaconViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.AdvertisementBeaconPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.Busy" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.CharacteristicPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.DisplayTypeToBooleanConverter" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.WriteTypeToBooleanConverter" />
+    <RootType FullName="Windows.UI.Xaml.Thickness" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="IsHitTestVisible" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.CharacteristicPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.DeviceServicesPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.StringFormatConverter" />
+    <RootType FullName="BluetoothLEExplorer.Views.DeviceServicesPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.DiscoverViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Data.CollectionViewSource">
+      <RootProperty Name="IsSourceGrouped" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressBar">
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="IsIndeterminate" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsWrapGrid">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="ChildrenTransitions" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.AddDeleteThemeTransition" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.RepositionThemeTransition" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ReorderThemeTransition" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Stretch" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.Discover" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.SettingsPageViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Pivot">
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PivotItem">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="NavigateUri" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.SettingsPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.ShellViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Services.Converters.ShellFontConverter" />
+    <RootType FullName="Template10.Controls.HamburgerButtonInfo">
+      <RootProperty Name="ClearHistory" />
+      <RootProperty Name="PageType" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="NavigationTransitionInfo" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Symbol" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.SuppressNavigationTransitionInfo" />
+    <RootType FullName="BluetoothLEExplorer.Views.Shell" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
+      <RootProperty Name="TranslateY" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="ImageSource" />
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Transform" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.TranslateTransform">
+      <RootProperty Name="Y" />
+    </RootType>
+    <RootType FullName="BluetoothLEExplorer.Views.Splash" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.VirtualKeyboardPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.VirtualKeyboardPage" />
+    <RootType FullName="BluetoothLEExplorer.ViewModels.VirtualPeripheralPageViewModel" />
+    <RootType FullName="BluetoothLEExplorer.Views.VirtualPeripheralPage" />
+  </Roots.RootTypes>
+</Roots>

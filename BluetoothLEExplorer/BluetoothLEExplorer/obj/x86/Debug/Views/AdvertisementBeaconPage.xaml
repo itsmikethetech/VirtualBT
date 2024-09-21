@@ -1,0 +1,217 @@
+﻿<Page x:ConnectionId='1' x:Class="BluetoothLEExplorer.Views.AdvertisementBeaconPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:Behaviors="using:Template10.Behaviors"
+      xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+      xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
+      xmlns:controls="using:Template10.Controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:BluetoothLEExplorer.Views"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:converters="using:Template10.Converters"
+      xmlns:myconverters="using:BluetoothLEExplorer.Services.Converters"
+      xmlns:vm="using:BluetoothLEExplorer.ViewModels"
+      xmlns:models="using:BluetoothLEExplorer.Models"
+      xmlns:default="http://schemas.microsoft.com/winfx/2006/xaml/presentation?IsApiContractNotPresent(Windows.Foundation.UniversalApiContract,10)"
+      xmlns:uac10="http://schemas.microsoft.com/winfx/2006/xaml/presentation?IsApiContractPresent(Windows.Foundation.UniversalApiContract,10)"
+      mc:Ignorable="d">
+
+    <Page.DataContext>
+        <vm:AdvertisementBeaconPageViewModel x:ConnectionId='2' x:Name="ViewModel" />
+    </Page.DataContext>
+
+    <Page.Resources>
+        <converters:ValueWhenConverter x:Key="VisibleWhenTrueConverter">
+            <converters:ValueWhenConverter.When>
+                <x:Boolean>True</x:Boolean>
+            </converters:ValueWhenConverter.When>
+            <converters:ValueWhenConverter.Value>
+                <Visibility>Visible</Visibility>
+            </converters:ValueWhenConverter.Value>
+            <converters:ValueWhenConverter.Otherwise>
+                <Visibility>Collapsed</Visibility>
+            </converters:ValueWhenConverter.Otherwise>
+        </converters:ValueWhenConverter>
+
+        <converters:ValueWhenConverter x:Key="VisibleWhenFalseConverter">
+            <converters:ValueWhenConverter.When>
+                <x:Boolean>False</x:Boolean>
+            </converters:ValueWhenConverter.When>
+            <converters:ValueWhenConverter.Value>
+                <Visibility>Visible</Visibility>
+            </converters:ValueWhenConverter.Value>
+            <converters:ValueWhenConverter.Otherwise>
+                <Visibility>Collapsed</Visibility>
+            </converters:ValueWhenConverter.Otherwise>
+        </converters:ValueWhenConverter>
+
+        <converters:ValueWhenConverter x:Key="EnumerationBoolToStringConverter">
+            <converters:ValueWhenConverter.When>
+                <x:Boolean>True</x:Boolean>
+            </converters:ValueWhenConverter.When>
+            <converters:ValueWhenConverter.Value>
+                <x:String>Stop</x:String>
+            </converters:ValueWhenConverter.Value>
+            <converters:ValueWhenConverter.Otherwise>
+                <x:String>Start</x:String>
+            </converters:ValueWhenConverter.Otherwise>
+        </converters:ValueWhenConverter>
+
+        <converters:ValueWhenConverter x:Key="CollapsedWhenZero">
+            <converters:ValueWhenConverter.When>
+                <x:Int32>0</x:Int32>
+            </converters:ValueWhenConverter.When>
+            <converters:ValueWhenConverter.Value>
+                <Visibility>Collapsed</Visibility>
+            </converters:ValueWhenConverter.Value>
+            <converters:ValueWhenConverter.Otherwise>
+                <Visibility>Visible</Visibility>
+            </converters:ValueWhenConverter.Otherwise>
+        </converters:ValueWhenConverter>
+
+        <converters:ValueWhenConverter x:Key="CollapsedWhenNegOne">
+            <converters:ValueWhenConverter.When>
+                <x:Int32>-1</x:Int32>
+            </converters:ValueWhenConverter.When>
+            <converters:ValueWhenConverter.Value>
+                <Visibility>Collapsed</Visibility>
+            </converters:ValueWhenConverter.Value>
+            <converters:ValueWhenConverter.Otherwise>
+                <Visibility>Visible</Visibility>
+            </converters:ValueWhenConverter.Otherwise>
+        </converters:ValueWhenConverter>
+
+        <myconverters:ByteArrayToStringConverter x:Key="ByteArrayToStringConverter" />
+    </Page.Resources>
+
+    <RelativePanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:ConnectionId='3' x:Name="AdaptiveVisualStateGroup">
+                <VisualState x:ConnectionId='4' x:Name="VisualStateNarrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NarrowMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO: change properties for narrow view  -->
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:ConnectionId='5' x:Name="VisualStateNormal">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NormalMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO: change properties for normal view  -->
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:ConnectionId='6' x:Name="VisualStateWide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource WideMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO: change properties for wide view  -->
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <controls:PageHeader x:ConnectionId='7'
+            x:Name="pageHeader"
+            RelativePanel.AlignLeftWithPanel="True"
+            RelativePanel.AlignRightWithPanel="True"
+            RelativePanel.AlignTopWithPanel="True"
+            Text="Advertisement Beacon">
+
+            <!--  secondary commands  -->
+            <controls:PageHeader.SecondaryCommands>
+                <AppBarButton x:ConnectionId='22'                                         Label="Settings" />
+                <AppBarButton x:ConnectionId='23'                                        Label="Privacy" />
+                <AppBarButton x:ConnectionId='24'                                      Label="About" />
+            </controls:PageHeader.SecondaryCommands>
+        </controls:PageHeader>
+
+        <Grid RelativePanel.Below="pageHeader" Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"  />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+            <StackPanel x:ConnectionId='8' x:Name="NewBeacon" Grid.Row="0">
+                <StackPanel.DataContext>
+                    <vm:AdvertisementBeaconPageNewBeaconViewModel x:ConnectionId='15' x:Name="NewBeaconViewModel" />
+                </StackPanel.DataContext>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0" uac10:Visibility="Visible" default:Visibility="Collapsed">
+                    <TextBlock Text="Use Extended Format" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <CheckBox x:ConnectionId='21' Margin="5,0,0,0"                                                                       />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0" uac10:Visibility="Visible" default:Visibility="Collapsed">
+                    <TextBlock Text="Anonymous"  VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <CheckBox x:ConnectionId='20' Margin="5,0,0,0"                                                                 />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0" uac10:Visibility="Visible" default:Visibility="Collapsed">
+                    <TextBlock Text="Preferred Tx Power"  VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <TextBox x:ConnectionId='18'
+                        x:Name="PreferredTxPower"
+                        Margin="5,0,0,0"
+                                                                                                                             
+                                                                                />
+                    <TextBlock Text="Include Tx Power"  VerticalAlignment="Center" Margin="5,0,5,0"/>
+                    <CheckBox x:ConnectionId='19' x:Name="IncludeTxPower" Margin="5,0,0,0"                                                                    />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0">
+                    <TextBlock Text="Payload" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                    <TextBox x:ConnectionId='17'
+                                                                                                                    
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Stretch"
+                        Width="100"
+                                                                       />
+                </StackPanel>
+                <Button x:ConnectionId='16'
+                    Content="Add Beacon"
+                                                                    
+                                                                               
+                                                                                
+                    Margin="0,5,5,0"/>
+            </StackPanel>
+
+            <GridView x:ConnectionId='9'
+                Grid.Row="1"
+                                                                     
+                Padding="10"
+                                                                             >
+                <GridView.ItemTemplate>
+                    <DataTemplate
+                                                                       >
+                        <RelativePanel x:ConnectionId='11'
+                            Height="200"
+                            Width="150"
+                            Padding="5"
+                            BorderBrush="Black"
+                            BorderThickness="2"
+                            VerticalAlignment="Top"
+                            HorizontalAlignment="Left">
+                            <TextBlock x:ConnectionId='12'
+                                x:Name="Name"
+                                                    
+                                RelativePanel.AlignLeftWithPanel="True"
+                                RelativePanel.AlignTopWithPanel="True"/>
+                            <ToggleSwitch x:ConnectionId='13'
+                                RelativePanel.Below="Name"
+                                x:Name="Switch" 
+                                Header="Advertising"
+                                                                         
+                                                                         />
+                            <Button x:ConnectionId='14'
+                                x:Name="Close"
+                                Content="X"
+                                                        
+                                RelativePanel.AlignTopWithPanel="True"
+                                RelativePanel.AlignRightWithPanel="True"/>
+                        </RelativePanel>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+            </GridView>
+        </Grid>
+    </RelativePanel>
+</Page>
+

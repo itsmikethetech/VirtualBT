@@ -1,0 +1,5 @@
+E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\VirtualBT.csproj;x86
+E:\GitHub\VirtualBT\BluetoothLEExplorer\GattHelper\GattHelper.csproj;x86
+E:\GitHub\VirtualBT\BluetoothLEExplorer\GattHelper\GattHelper.csproj;x86
+E:\GitHub\VirtualBT\GattServicesLibrary\GattServicesLibrary\GattServicesLibrary.csproj;x86
+E:\GitHub\VirtualBT\SortedObservableCollection\SortedObservableCollection\SortedObservableCollection.csproj;x86

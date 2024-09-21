@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alisa\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\alisa\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)mstest.testadapter\1.1.17\build\uap10.0\MSTest.TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)mstest.testadapter\1.1.17\build\uap10.0\MSTest.TestAdapter.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-x86\1.6.1\build\Microsoft.Net.Native.SharedLibrary-x86.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-x86\1.6.1\build\Microsoft.Net.Native.SharedLibrary-x86.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-x64\1.6.1\build\Microsoft.Net.Native.SharedLibrary-x64.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-x64\1.6.1\build\Microsoft.Net.Native.SharedLibrary-x64.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-arm\1.6.1\build\Microsoft.Net.Native.SharedLibrary-arm.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.native.sharedlibrary-arm\1.6.1\build\Microsoft.Net.Native.SharedLibrary-arm.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.native.compiler\1.6.2\build\Microsoft.Net.Native.Compiler.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.native.compiler\1.6.2\build\Microsoft.Net.Native.Compiler.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\16.11.0\build\uap10.0\Microsoft.NET.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\16.11.0\build\uap10.0\Microsoft.NET.Test.Sdk.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\alisa\.nuget\packages\newtonsoft.json\9.0.1</PkgNewtonsoft_Json>
+    <PkgMicrosoft_Net_Native_SharedLibrary-x86 Condition=" '$(PkgMicrosoft_Net_Native_SharedLibrary-x86)' == '' ">C:\Users\alisa\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.1</PkgMicrosoft_Net_Native_SharedLibrary-x86>
+    <PkgMicrosoft_Net_Native_SharedLibrary-x64 Condition=" '$(PkgMicrosoft_Net_Native_SharedLibrary-x64)' == '' ">C:\Users\alisa\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.1</PkgMicrosoft_Net_Native_SharedLibrary-x64>
+    <PkgMicrosoft_Net_Native_SharedLibrary-arm Condition=" '$(PkgMicrosoft_Net_Native_SharedLibrary-arm)' == '' ">C:\Users\alisa\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.6.1</PkgMicrosoft_Net_Native_SharedLibrary-arm>
+    <PkgMicrosoft_Net_Native_Compiler Condition=" '$(PkgMicrosoft_Net_Native_Compiler)' == '' ">C:\Users\alisa\.nuget\packages\microsoft.net.native.compiler\1.6.2</PkgMicrosoft_Net_Native_Compiler>
+  </PropertyGroup>
+</Project>
