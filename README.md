@@ -3,7 +3,10 @@ VirtualBT is a Bluetooth server for Windows, designed to emulate input devices s
 
 The application leverages Windows Bluetooth Low Energy (through BluetoothLEExplorer) alongside the Windows GattServicesLibrary and SortedObservableCollection to function as a virtual Bluetooth input device. It aims to enable seamless connectivity with a wide range of devices, including smartphones and gaming consoles, that support Bluetooth input peripherals. Future enhancements will include support for mouse and gamepad emulation.
 
-![image](https://github.com/user-attachments/assets/5ba16db7-d5e0-4b18-9717-d175e4787917)
+![image](https://github.com/user-attachments/assets/8b65ab9d-5251-4548-8508-420bed38fe9e)
+
+![image](https://github.com/user-attachments/assets/9a8db4cf-554a-495d-8635-b314a6be9994)
+
 
 # Currently supported features:
 
