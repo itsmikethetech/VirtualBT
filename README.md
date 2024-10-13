@@ -21,10 +21,18 @@ The application leverages Windows Bluetooth Low Energy (through BluetoothLEExplo
 
 # Special Thanks and Contributors
 
-A big thank you goes out to all the contributors at the Brikwerk/nxbt and dekuNukem/Nintendo_Switch_Reverse_Engineering repositories! Almost all information pertaining to the innerworkings of the Nintendo Switch Controllers comes from the documentation and code in those repos. Without it, NXBT and this project wouldn't have been possible.
+A big thank you goes out to all the contributors at the mart1nro/joycontrol, Brikwerk/nxbt, and dekuNukem/Nintendo_Switch_Reverse_Engineering repositories! Almost all information pertaining to the innerworkings of the Nintendo Switch Controllers comes from the documentation and code in those repos. Without it, NXBT and this project wouldn't have been possible.
 
 # Licencing
 
-- All code, unless otherwise stated, is licensed under the GPL 3 License.
+- All code, unless otherwise stated, is licensed under the GPL-3.0 License.
+- JoyControl is licensed under GPL-3.0
 - Code by Microsoft is licensed as MIT.
 - NXBT is licensed as MIT.
+
+# Projects Used
+
+- https://github.com/microsoft/BluetoothLEExplorer
+- https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering
+- https://github.com/mart1nro/joycontrol
+- https://github.com/Brikwerk/nxbt
