@@ -15,3 +15,9 @@ The application leverages Windows Bluetooth Low Energy (through BluetoothLEExplo
   ![image](https://github.com/user-attachments/assets/67bf9bb9-c2d3-48ed-8fa5-2a42ce448bcf)
 
 A big thank you goes out to all the contributors at the Brikwerk/nxbt and dekuNukem/Nintendo_Switch_Reverse_Engineering repositories! Almost all information pertaining to the innerworkings of the Nintendo Switch Controllers comes from the documentation and code in those repos. Without it, NXBT and this project wouldn't have been possible.
+
+# Licencing
+
+- All code, unless otherwise stated, is licensed under the GPL 3 License.
+- Code by Microsoft is licensed as MIT.
+- NXBT is licensed as MIT.
