@@ -19,6 +19,8 @@ The application leverages Windows Bluetooth Low Energy (through BluetoothLEExplo
 - Implementation of NXBT for Switch integration and Linux support. 
   ![image](https://github.com/user-attachments/assets/67bf9bb9-c2d3-48ed-8fa5-2a42ce448bcf)
 
+# Special Thanks and Contributors
+
 A big thank you goes out to all the contributors at the Brikwerk/nxbt and dekuNukem/Nintendo_Switch_Reverse_Engineering repositories! Almost all information pertaining to the innerworkings of the Nintendo Switch Controllers comes from the documentation and code in those repos. Without it, NXBT and this project wouldn't have been possible.
 
 # Licencing
