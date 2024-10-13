@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {}
+    "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {
+    "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj",
+        "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj",
         "projectName": "SortedObservableCollection",
-        "projectPath": "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj",
+        "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj",
         "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\obj\\",
+        "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

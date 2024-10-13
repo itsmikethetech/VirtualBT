@@ -1,10 +1,10 @@
 FullName=Microsoft.Build.ILTasks.ILTransformInternalTask
-InputAssembly=E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
-OutputAssembly=E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+InputAssembly=C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+OutputAssembly=C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 UseILOutputPrefix=False
 LibPathsCount=2
 LibPath=C:\Users\alisa\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\x86\ilc\lib\Private\
-LibPath=E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\in\
+LibPath=C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\in\
 CoreAssemblyName=System.Private.CoreLib
 SkipWritingTransformedAssembly=False
 DontSaveUnlessChangesMade=False

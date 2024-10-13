@@ -6,11 +6,11 @@
 "/nativeLink:C:\Users\alisa\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\x86\ilc\lib\Native\vmath.lib"
 /customImports
 /methodBodyFolding
-"E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\MDIL\VirtualBT.mdilexe"
-"/i:E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\MDIL"
-"/out:E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\Native\VirtualBT.exe"
-"/pdbAltPath:E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc"
-"/res:E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\Native.res"
+"C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\MDIL\VirtualBT.mdilexe"
+"/i:C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\Native\VirtualBT.exe"
+"/pdbAltPath:C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc"
+"/res:C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\ilc\intermediate\Native.res"
 "/i:C:\Users\alisa\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.1\tools\SharedLibrary\ret\MDIL"
 /shimexe
 "/classlib:SharedLibrary"

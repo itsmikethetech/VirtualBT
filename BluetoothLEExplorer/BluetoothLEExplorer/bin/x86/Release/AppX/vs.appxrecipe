@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DEDICATEDSERVER</Machine>
+    <Machine>MTT_MAIN</Machine>
     <WindowsUser>alisa</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>8fce680c-fda2-4d28-8e68-9bb7d53f192f</PackageIdentityName>
     <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>932DC7D9464A1A27FBA931D497C53B260CFCAF37E22786BFD124A3A218151BFA</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>1B1B81F792E680A12674165CB79843E962E2C816C7226E52C7DD2B332CF97F3D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>Microsoft.BluetoothLEExplorer_1.16.3.0_x86__8wekyb3d8bbwe</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>Microsoft.BluetoothLEExplorer_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
     <RegisteredPackageID>Microsoft.BluetoothLEExplorer</RegisteredPackageID>
@@ -27,141 +27,141 @@
     <RegisteredVersion>1.16.3.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T06:09:18.485</Modified>
+      <Modified>2024-10-13T04:39:39.694</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.120</Modified>
+      <Modified>2024-10-13T04:25:18.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-125.png">
       <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.138</Modified>
+      <Modified>2024-10-13T04:25:18.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-150.png">
       <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.158</Modified>
+      <Modified>2024-10-13T04:25:18.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-200.png">
       <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.176</Modified>
+      <Modified>2024-10-13T04:25:18.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.194</Modified>
+      <Modified>2024-10-13T04:25:18.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:59:56.604</Modified>
+      <Modified>2024-10-13T04:25:18.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.254</Modified>
+      <Modified>2024-10-13T04:25:18.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.274</Modified>
+      <Modified>2024-10-13T04:25:18.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-100.png">
       <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.312</Modified>
+      <Modified>2024-10-13T04:25:18.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-200.png">
       <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.329</Modified>
+      <Modified>2024-10-13T04:25:18.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-400.png">
       <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.348</Modified>
+      <Modified>2024-10-13T04:25:18.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.366</Modified>
+      <Modified>2024-10-13T04:25:18.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.384</Modified>
+      <Modified>2024-10-13T04:25:18.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.402</Modified>
+      <Modified>2024-10-13T04:25:18.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.420</Modified>
+      <Modified>2024-10-13T04:25:18.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.439</Modified>
+      <Modified>2024-10-13T04:25:18.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-200.png">
       <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.457</Modified>
+      <Modified>2024-10-13T04:25:18.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.474</Modified>
+      <Modified>2024-10-13T04:25:18.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.567</Modified>
+      <Modified>2024-10-13T04:25:18.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.587</Modified>
+      <Modified>2024-10-13T04:25:18.052</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-21T05:40:35.606</Modified>
+      <Modified>2024-10-13T04:25:18.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\clrcompression.dll">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
-      <Modified>2016-06-14T05:51:30.000</Modified>
+      <Modified>2016-06-14T04:51:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Help.htm">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\Help.htm">
       <PackagePath>Help.htm</PackagePath>
-      <Modified>2024-09-21T06:02:09.443</Modified>
+      <Modified>2024-10-13T04:25:18.055</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\resources.pri">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-21T06:08:47.147</Modified>
+      <Modified>2024-10-13T04:39:05.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.dll">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.dll">
       <PackagePath>VirtualBT.dll</PackagePath>
-      <Modified>2024-09-21T06:09:17.898</Modified>
+      <Modified>2024-10-13T04:39:39.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.exe">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.exe">
       <PackagePath>VirtualBT.exe</PackagePath>
-      <Modified>2024-09-21T06:09:18.471</Modified>
+      <Modified>2024-10-13T04:39:39.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.pdb">
+    <AppxPackagedFile Include="C:\Users\alisa\Documents\GitHub\VirtualBT\BluetoothLEExplorer\BluetoothLEExplorer\bin\x86\Release\ilc\VirtualBT.pdb">
       <PackagePath>VirtualBT.pdb</PackagePath>
-      <Modified>2024-09-21T06:09:18.469</Modified>
+      <Modified>2024-10-13T04:39:39.681</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

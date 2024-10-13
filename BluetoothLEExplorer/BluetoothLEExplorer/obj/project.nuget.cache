@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8A07B7/UjPQ=",
+  "dgSpecHash": "M59+9kpxTDk=",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
+  "projectFilePath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alisa\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\microsoft.net.native.compiler\\1.6.2\\microsoft.net.native.compiler.1.6.2.nupkg.sha512",
@@ -143,7 +143,7 @@
     "C:\\Users\\alisa\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\system.reflection.context\\4.0.1\\system.reflection.context.4.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\system.reflection.dispatchproxy\\4.0.1\\system.reflection.dispatchproxy.4.0.1.nupkg.sha512",
-    "C:\\Users\\alisa\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {}
+    "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
+    "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj",
+        "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj",
         "projectName": "GattHelper",
-        "projectPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj",
+        "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj",
         "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\obj\\",
+        "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

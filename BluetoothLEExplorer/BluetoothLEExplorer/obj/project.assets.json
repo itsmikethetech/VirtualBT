@@ -26014,7 +26014,7 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
+      "sha512": "/3dmiGuUUUjqZaSeTdxkgzY0De8sLpS4J3tYRETskSbZaRjwvL62IBalMGI6iczZ6udJ1iBlsBBYOHtdCfx90Q==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
@@ -28669,11 +28669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
+      "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
       "projectName": "VirtualBT",
-      "projectPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
+      "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
       "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\",
+      "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -28695,14 +28695,14 @@
       "frameworks": {
         "uap10.0.18362": {
           "projectReferences": {
-            "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
-              "projectPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj"
+            "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
+              "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj"
             },
-            "E:\\GitHub\\VirtualBT\\GattServicesLibrary\\GattServicesLibrary\\GattServicesLibrary.csproj": {
-              "projectPath": "E:\\GitHub\\VirtualBT\\GattServicesLibrary\\GattServicesLibrary\\GattServicesLibrary.csproj"
+            "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\GattServicesLibrary\\GattServicesLibrary\\GattServicesLibrary.csproj": {
+              "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\GattServicesLibrary\\GattServicesLibrary\\GattServicesLibrary.csproj"
             },
-            "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {
-              "projectPath": "E:\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj"
+            "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj": {
+              "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\SortedObservableCollection\\SortedObservableCollection\\SortedObservableCollection.csproj"
             }
           }
         }

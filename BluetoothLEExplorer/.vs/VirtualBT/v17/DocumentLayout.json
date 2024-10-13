@@ -1,80 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\",
+  "WorkspaceRootPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\views\\shell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\views\\shell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\help.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\help.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\assets\\splashscreen.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\assets\\splashscreen.scale-200.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\viewmodels\\advertisementbeaconpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\viewmodels\\advertisementbeaconpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\viewmodels\\advertisementbeacondetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\viewmodels\\advertisementbeacondetailspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\viewmodels\\discoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\viewmodels\\discoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\styles\\custom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\styles\\custom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\views\\splash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\views\\splash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\models\\virtualkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\models\\virtualkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\properties\\default.rd.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\properties\\default.rd.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|solutionrelative:bluetoothleexplorer\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VirtualBT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1CBE3C-A68A-4E02-8001-E02B815560EE}|BluetoothLEExplorer\\VirtualBT.csproj|e:\\github\\virtualbt\\bluetoothleexplorer\\bluetoothleexplorer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,23 +21,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SharedStubs.g.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
               "RelativeDocumentMoniker": "BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
               "RelativeToolTip": "BluetoothLEExplorer\\obj\\x86\\Release\\ilc\\intermediate\\VirtualBT.McgInterop\\SharedStubs.g.cs",
               "ViewState": "AgIAAFMSAAAAAAAAAAAkwGwSAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,215 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SettingsPage.xaml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\SettingsPage.xaml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Views\\SettingsPage.xaml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\SettingsPage.xaml",
-              "RelativeToolTip": "BluetoothLEExplorer\\Views\\SettingsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T06:04:39.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Package.appxmanifest",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Package.appxmanifest",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Package.appxmanifest",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Package.appxmanifest",
-              "RelativeToolTip": "BluetoothLEExplorer\\Package.appxmanifest",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2024-09-21T06:02:56.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Help.htm",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Help.htm",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Help.htm",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Help.htm",
-              "RelativeToolTip": "BluetoothLEExplorer\\Help.htm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-21T06:01:43.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\App.xaml.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\App.xaml.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\App.xaml.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:57:06.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\App.xaml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\App.xaml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\App.xaml",
-              "RelativeToolTip": "BluetoothLEExplorer\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T05:56:58.819Z",
-              "EditorCaption": ""
+              "Title": "VirtualBT",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
+              "RelativeDocumentMoniker": "BluetoothLEExplorer\\VirtualBT.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
+              "RelativeToolTip": "BluetoothLEExplorer\\VirtualBT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T05:50:38.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Shell.xaml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\Shell.xaml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Views\\Shell.xaml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\Shell.xaml",
-              "RelativeToolTip": "BluetoothLEExplorer\\Views\\Shell.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T05:53:37.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdvertisementBeaconPageViewModel.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconPageViewModel.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconPageViewModel.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconPageViewModel.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconPageViewModel.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:53:31.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdvertisementBeaconDetailsPageViewModel.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconDetailsPageViewModel.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconDetailsPageViewModel.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconDetailsPageViewModel.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\ViewModels\\AdvertisementBeaconDetailsPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:53:26.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DiscoverViewModel.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\DiscoverViewModel.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\ViewModels\\DiscoverViewModel.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\ViewModels\\DiscoverViewModel.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\ViewModels\\DiscoverViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:53:22.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SplashScreen.scale-200.png",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Assets\\SplashScreen.scale-200.png",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Assets\\SplashScreen.scale-200.png",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Assets\\SplashScreen.scale-200.png",
-              "RelativeToolTip": "BluetoothLEExplorer\\Assets\\SplashScreen.scale-200.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-09-21T05:52:53.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Splash.xaml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\Splash.xaml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Views\\Splash.xaml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Views\\Splash.xaml",
-              "RelativeToolTip": "BluetoothLEExplorer\\Views\\Splash.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T05:52:17.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Custom.xaml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Styles\\Custom.xaml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Styles\\Custom.xaml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Styles\\Custom.xaml",
-              "RelativeToolTip": "BluetoothLEExplorer\\Styles\\Custom.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T05:51:36.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VirtualKeyboard.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Models\\VirtualKeyboard.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Models\\VirtualKeyboard.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Models\\VirtualKeyboard.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\Models\\VirtualKeyboard.cs",
-              "ViewState": "AgIAAHIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:51:14.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Default.rd.xml",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Properties\\Default.rd.xml",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Properties\\Default.rd.xml",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Properties\\Default.rd.xml",
-              "RelativeToolTip": "BluetoothLEExplorer\\Properties\\Default.rd.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-09-21T05:50:45.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "BluetoothLEExplorer\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:50:42.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VirtualBT",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
-              "RelativeDocumentMoniker": "BluetoothLEExplorer\\VirtualBT.csproj",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\VirtualBT.csproj",
-              "RelativeToolTip": "BluetoothLEExplorer\\VirtualBT.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-21T05:50:38.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "App.g.i.cs",
-              "DocumentMoniker": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
               "RelativeDocumentMoniker": "BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
-              "ToolTip": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
               "RelativeToolTip": "BluetoothLEExplorer\\obj\\x86\\Debug\\App.g.i.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:43:47.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T05:43:47.774Z"
             }
           ]
         }

@@ -20492,7 +20492,7 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
+      "sha512": "wOdakWLyi6TEVyyPrE/UyMl9bTUFo3aDZGul9+X2rA2mnVIA0mRgVN6Q6OCPiToQ5RRZG2m4JzZAhCss+Qvd7A==",
       "type": "package",
       "path": "microsoft.csharp/4.0.1",
       "files": [
@@ -26838,7 +26838,7 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
+      "sha512": "/3dmiGuUUUjqZaSeTdxkgzY0De8sLpS4J3tYRETskSbZaRjwvL62IBalMGI6iczZ6udJ1iBlsBBYOHtdCfx90Q==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
@@ -26870,7 +26870,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.0.1": {
-      "sha512": "Ov6dU8Bu15Bc7zuqttgHF12J5lwSWyTf1S+FJouUXVMSqImLZzYaQ+vRr1rQ0OZ0HqsrwWl4dsKHELckQkVpgA==",
+      "sha512": "w4Gc06WPYJ/1eWUlNvn0FEgcqk2efcJ34NPIyP6OD/kIBvqU98ZDbUr4U8b8zSbVr1fwpJxbrO704NqqOeJncw==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.0.1",
       "files": [
@@ -26903,7 +26903,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.0.1": {
-      "sha512": "sSzHHXueZ5Uh0OLpUQprhr+ZYJrLPA2Cmr4gn0wj9+FftNKXx8RIMKvO9qnjk2ebPYUjZ+F2ulGdPOsvj+MEjA==",
+      "sha512": "VChj+ghaMXBbCylLZHRMEWF6CYvq5NVmS+tTGJFI0ZJGyaES3jDy1ZfgiIBppBTyrtjpSis2kpSoGyS5kbwhSQ==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.0.1",
       "files": [
@@ -27067,7 +27067,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.1.0": {
-      "sha512": "tsQ/ptQ3H5FYfON8lL4MxRk/8kFyE0A+tGPXmVP967cT/gzLHYxIejIYSxp4JmIeFHVP78g/F2FE1mUUTbDtrg==",
+      "sha512": "Wxh1rob3b2Awf74mHHRx6ZbU1OreDEeDyzWlqtf+xPAb4Byx8feK8i1IPszhIJb27UMdacSmbHvyNQCLysMMtw==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
@@ -29357,11 +29357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\BluetoothLEExplorerUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\BluetoothLEExplorerUnitTests.csproj",
       "projectName": "BluetoothLEExplorerUnitTests",
-      "projectPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\BluetoothLEExplorerUnitTests.csproj",
+      "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\BluetoothLEExplorerUnitTests.csproj",
       "packagesPath": "C:\\Users\\alisa\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\BluetoothLEExplorerUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -29383,8 +29383,8 @@
       "frameworks": {
         "uap10.0.18362": {
           "projectReferences": {
-            "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
-              "projectPath": "E:\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj"
+            "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj": {
+              "projectPath": "C:\\Users\\alisa\\Documents\\GitHub\\VirtualBT\\BluetoothLEExplorer\\GattHelper\\GattHelper.csproj"
             }
           }
         }
